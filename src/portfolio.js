@@ -129,7 +129,6 @@ const educationInfo = {
       subHeader: "BTECH INFORMATION TECHNOLOGY",
       duration: "November 2021 - June 2025",
       desc: "Participated in the SIH2023 and made it to the pre-final round."
-      
     }
   ]
 };
@@ -163,15 +162,16 @@ const workExperiences = {
     {
       role: "Machine Learning & Data Scientist",
       company: "Eduphoenix Solutions",
-      companylogo: "https://imgs.search.brave.com/N-q4etD9POYqeHKQnkVBVi_JUWmPB5J3lgKj-qqg2lI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy9pbWFn/ZXMvY29tcGFuaWVz/L2xvZ28tMTcxMDMz/NjQ4NzY2Ni5qcGc_/Zm09YXV0byZhcj0x/OjEmbW9kZT1maWxs/JmZpbGw9c29saWQm/ZmlsbC1jb2xvcj1m/ZmYmZm9ybWF0PWF1/dG8mdz0xOTIwJnE9/NzU",
+      companylogo:
+        "https://imgs.search.brave.com/N-q4etD9POYqeHKQnkVBVi_JUWmPB5J3lgKj-qqg2lI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy9pbWFn/ZXMvY29tcGFuaWVz/L2xvZ28tMTcxMDMz/NjQ4NzY2Ni5qcGc_/Zm09YXV0byZhcj0x/OjEmbW9kZT1maWxs/JmZpbGw9c29saWQm/ZmlsbC1jb2xvcj1m/ZmYmZm9ybWF0PWF1/dG8mdz0xOTIwJnE9/NzU",
       date: "June 2024 – July 2024",
-      desc: "Internship on Machine Learning using python",
-      
+      desc: "Internship on Machine Learning using python"
     },
     {
       role: "Web Developer",
       company: "Octanet Services Pvt. Ltd",
-      companylogo: "https://yt3.googleusercontent.com/1rAfsJfiNyJyYIJ04uGK0_Kfh_f99o5pEnqK8aLOxU0YhRsPfVrmSawdG0Z3TOyTha8r0GFAcAU=s160-c-k-c0x00ffffff-no-rj",
+      companylogo:
+        "https://yt3.googleusercontent.com/1rAfsJfiNyJyYIJ04uGK0_Kfh_f99o5pEnqK8aLOxU0YhRsPfVrmSawdG0Z3TOyTha8r0GFAcAU=s160-c-k-c0x00ffffff-no-rj",
       date: "Nov 2023 – Dec 2023",
       desc: "Internship on Web Application Development using MERN Stack."
     }
@@ -193,9 +193,11 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBPW-JltQ1wcTU9gu5_1jmhHqjcU7a9ON6g&s",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBPW-JltQ1wcTU9gu5_1jmhHqjcU7a9ON6g&s",
       projectName: "Employee Management System",
-      projectDesc: "Employee Management System for PRB3 Industries to easily manage employees to add, update and delete employees to maintain employee data.",
+      projectDesc:
+        "Employee Management System for PRB3 Industries to easily manage employees to add, update and delete employees to maintain employee data.",
       footerLink: [
         {
           name: "Visit Website",
@@ -219,23 +221,23 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Google IT Support",
-      subtitle:
-        "Completed Google IT Support Certification",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQI9FLa7H7rDM4-MKE23fykxyhE-cjoosZ_A&s",
+      subtitle: "Completed Google IT Support Certification",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQI9FLa7H7rDM4-MKE23fykxyhE-cjoosZ_A&s",
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
           url: ""
         }
-       
       ]
     },
     {
       title: "NPTEL",
       subtitle:
         "NPTEL Certified in Privacy and Security in Online Social Media",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTot2o-o9umuogknzUD5R0D_h5Fx4b5kNLMIQ&s",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTot2o-o9umuogknzUD5R0D_h5Fx4b5kNLMIQ&s",
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -247,13 +249,12 @@ const achievementSection = {
 
     {
       title: "Cisco Networking Academy",
-      subtitle: "Completed Certifcation from Cisco Networking Academy for Data Science",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5faQYbiZ4ZzPlDxCjbO-MjCa3TEBIJm_ujrSM6ab0fmYNrk-BkK1o7lswHiWkfwutrM&usqp=CAU",
+      subtitle:
+        "Completed Certifcation from Cisco Networking Academy for Data Science",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5faQYbiZ4ZzPlDxCjbO-MjCa3TEBIJm_ujrSM6ab0fmYNrk-BkK1o7lswHiWkfwutrM&usqp=CAU",
       imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""}
-        
-      ]
+      footerLink: [{name: "Certification", url: ""}]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -339,7 +340,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = true // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
